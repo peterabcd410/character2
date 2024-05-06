@@ -1,6 +1,6 @@
 # 概述
 
-本章代码基于mmdetection，基准模型为RetinaNet。
+本章的代码基于mmdetection，基准模型为RetinaNet。
 
 参考链接：https://mmdetection.readthedocs.io/zh-cn/latest/user_guides/index.html
 
